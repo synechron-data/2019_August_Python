@@ -1,0 +1,19 @@
+Built in Functions
+
+Built In Constants
+False
+True
+None (NoneType)
+NotImplemented
+
+
+Built In Types
+
+Numeric - int, float, complex
+Sequence Types - list, tuple, range
+Mapping Type - dict
+Set Types - set, frozenset
+
+Text Process
+str
+

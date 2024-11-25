@@ -1,0 +1,34 @@
+Operators
+
+Arithmetic Operators  	+ - * / % ** (Exponential) // (Floor Division)
+
+Assignment Operators	= += -= *= / % **=
+
+Comparison Operators	== != > < >= <=
+
+Logical Operators	and or not
+
+Identity Operators	is is-not
+
+Membership Operators	in not-in
+
+Bitwise Operators	& | ^ ~ << >>
+
+
+Operators on Strings (String Special Operators)
+
++	Concat
+
+*	Create new Strings
+
+[]	Slice
+
+[:]	Range Slice
+
+in	Find in string	
+
+not in 	does not exist in string
+
+r	Raw String
+
+%	String Formatting
